@@ -28,9 +28,9 @@ This section - test planning -will identify the items that will be tested, the f
 The testing allocated time and financial resources will be defined, along with the risk associated with the plan.
 
 #### 1.1.1. Roles assigned for the testing project and the human resource 
-* Scrum manager - Ana-Maria Cismaru
-* Software Tester - Ana-Maria Cismaru
-* Review leader - Ana-Maria Cismaru
+* Scrum manager - dragomirvirgilcatalin82
+* Software Tester - dragomirvirgilcatalin82
+* Review leader - dragomirvirgilcatalin82
 * Software architect - Jane Doe
 * Developer - Jane Doe
 #### 1.1.2. Entry criteria defined
@@ -143,7 +143,7 @@ Functional test cases were created in Zephyr Squad. Based on the analysis of the
 The following elements are needed to be ready before the test execution phase begins:
 * Roles and human resources are alocated
 * The system is up and running : [environment](https://www.globalsqa.com/angularJs-protractor/BankingProject/#/login)
-* Both bank manager user and customer user are created: customer user: Ana-Maria Cismaru/ bank manager account - user: John Malkovici/ password: johnswife1
+* Both bank manager user and customer user are created: customer user: dragomirvirgilcatalin82/ bank manager account - user: John Malkovici/ password: johnswife1
 * Cycle summary was created
 * Test cases were added to the cycle summary
 * Postman collection with the dependents API methods was created
